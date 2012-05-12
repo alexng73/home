@@ -1,0 +1,38 @@
+Electric motorcycle/scooter
+
+concept:
+in-wheel axial flux induction motor driven
+removable batteries (not removable for safety reason?)
+litium ion battery + ultra cap
+in-home charger
+range extender
+min 100km per charge
+eq to 600cc and 150cc
+premium designer bike positioning
+mechanically isolated ion battery, using gyro to sense angle of bike to cut off battery
+
+financing:
+GP Battries
+
+collaboration:
+Temasek poly - electronics, motor design
+siew kok - bike design
+
+
+marketing:
+electric bike gp racing singapore
+
+
+RPM to KPH
+You don't. RPM is revolutions per minute and not meters per minute, and not any distance per minute. A revolution per minute (rpm) is one full circle per minute ( 2 pi radians per minute or 360 degrees per minute )
+
+Of course you can. RPM means the number of revolutions per minute. If you know the radius of the wheel than it's circumference is 2*Pi*r. If you know the diameter, the circumference is Pi*d. Imagine a tape measure along the rolling surface of the wheel. As the wheel turns, that tape is placed down on the street, one circumference worth of length per full rotation.
+For example. if the diameter is 1 m (same as the radius being 1/2 meter) then per revolution you cover 3.14159 meters. If you were to go at 1000 rpm that translates into 3141.59 meters or 3.1 km per minute leaving you with a trailblazing 180 km/h. Catch me if you can.........
+
+Read more: http://wiki.answers.com/Q/How_do_you_convert_rpm_into_meters_per_minute#ixzz1NjOKXoPX
+
+
+notes:
+have sponsor for different prototype design
+hand-made mass customisation concept
+a few standardised parts (frame, motor, battery, fairing) to be mix and matched into custom or mass market model
